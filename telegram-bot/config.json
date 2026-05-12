@@ -1,0 +1,14 @@
+{
+  "botToken": "PASTE_YOUR_BOT_TOKEN_HERE",
+  "intervalMinutes": 5,
+  "mode": "rotate",
+  "groups": [
+    -1001234567890,
+    -1009876543210
+  ],
+  "messages": [
+    "📌 <b>Important Note 1</b>\nYahan apna pehla message likhein.",
+    "🔔 <b>Update 2</b>\nDusra message yahan.",
+    "💡 <b>Tip 3</b>\nTeesra message yahan."
+  ]
+}
